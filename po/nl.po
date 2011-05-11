@@ -552,14 +552,14 @@ msgstr ""
 #: data/mp/messages/resmessages12.rmsg:71
 #: data/mp/messages/resmessagesall.rmsg:123
 msgid "Orders assigned indirect fire units to fire at the enemy batteries"
-msgstr ""
+msgstr "Orders toegewezen aan indirecte geschut-units om te vuren op vijhandelijke batterijen"
 
 #: data/base/messages/resmessages12.rmsg:72
 #: data/base/messages/resmessagesall.rmsg:98
 #: data/mp/messages/resmessages12.rmsg:72
 #: data/mp/messages/resmessagesall.rmsg:124
 msgid "Counter-battery fire continues until enemy battery is suppressed"
-msgstr ""
+msgstr "Contra-batterij blijft vuren tot vijhandelijke batterij onderdrukt is"
 
 #: data/base/messages/resmessages12.rmsg:82
 #: data/base/messages/resmessages23.rmsg:56
@@ -577,7 +577,7 @@ msgstr "CB-sensor verbeterd"
 #: data/mp/messages/resmessages2.rmsg:447
 #: data/mp/messages/strings/resstrings.txt:516
 msgid "New fire detection systems"
-msgstr ""
+msgstr "Nieuw vuur detectie systemen"
 
 #: data/base/messages/resmessages12.rmsg:84
 #: data/base/messages/resmessages23.rmsg:58
@@ -586,7 +586,7 @@ msgstr ""
 #: data/mp/messages/resmessages23.rmsg:58
 #: data/mp/messages/resmessages3.rmsg:526
 msgid "Extends CB Range"
-msgstr ""
+msgstr "Verlengt CB bereik"
 
 #: data/base/messages/resmessages12.rmsg:85
 #: data/base/messages/resmessages23.rmsg:59
@@ -612,17 +612,17 @@ msgstr "Alle CB-sensoren automatisch verbeterd"
 #: data/mp/messages/resmessages3.rmsg:888
 #: data/mp/messages/resmessagesall.rmsg:212
 msgid "Cannon Upgrade"
-msgstr ""
+msgstr "Kanon Verbetering"
 
 #: data/base/messages/resmessages12.rmsg:96
 #: data/mp/messages/resmessages12.rmsg:96
 msgid "Determines range to target"
-msgstr ""
+msgstr "Bepaalt bereik tot doel"
 
 #: data/base/messages/resmessages12.rmsg:97
 #: data/base/messages/resmessagesall.rmsg:175
 msgid "Increases Cannon accuracy"
-msgstr ""
+msgstr "Verbeterd kanon trefzekerheid"
 
 #: data/base/messages/resmessages12.rmsg:98
 #: data/base/messages/resmessages12.rmsg:215
@@ -662,7 +662,7 @@ msgstr "Vlammenwerper-verbetering"
 #: data/mp/messages/resmessages2.rmsg:863
 #: data/mp/messages/strings/resstrings.txt:851
 msgid "Automatic loading mechanism replaces manual loader"
-msgstr ""
+msgstr "Automatisch laad mechanisme vervangt handmatige lader"
 
 #: data/base/messages/resmessages12.rmsg:110
 msgid "Increases Flamer ROF"
@@ -719,7 +719,7 @@ msgstr "Nieuwe geschutskoepel beschikbaar"
 #: data/base/messages/resmessages12.rmsg:122
 #: data/mp/messages/resmessages12.rmsg:122
 msgid ".50-calibre heavy machinegun"
-msgstr ""
+msgstr ".50-kaliber zwaar machine geweer"
 
 #: data/base/messages/resmessages12.rmsg:123
 #: data/base/messages/resmessages1.rmsg:617
@@ -732,7 +732,7 @@ msgstr ""
 #: data/mp/messages/resmessagesall.rmsg:892
 #: data/mp/messages/resmessagesall.rmsg:905
 msgid "Best Targets: Infantry, base structures, wheeled vehicles"
-msgstr ""
+msgstr "Beste doelen: Infanterie, gebouwen, voertuigen"
 
 #: data/base/messages/resmessages12.rmsg:124
 #: data/base/messages/resmessages1.rmsg:45
@@ -856,12 +856,12 @@ msgstr "Carrosseriepunten: gemiddeld"
 #: data/mp/messages/strings/resstrings.txt:888
 #: data/mp/messages/strings/resstrings.txt:900
 msgid "Machinegun Upgrade"
-msgstr ""
+msgstr "Machine geweer verbetering"
 
 #: data/base/messages/resmessages12.rmsg:135
 #: data/mp/messages/resmessages12.rmsg:135
 msgid "Chaingun mechanism replaces belt-feed"
-msgstr ""
+msgstr "Ketting mechanisme vervangt band-lader"
 
 #: data/base/messages/resmessages12.rmsg:136
 #: data/base/messages/resmessages23.rmsg:175
@@ -869,7 +869,7 @@ msgstr ""
 #: data/base/messages/strings/resstrings.txt:859
 #: data/mp/messages/strings/resstrings.txt:902
 msgid "Increases Machinegun ROF"
-msgstr ""
+msgstr "Verbeterd vuurfrequentie van machine geweer"
 
 #: data/base/messages/resmessages12.rmsg:137
 #: data/base/messages/resmessages1.rmsg:644
@@ -940,7 +940,7 @@ msgstr "Kan worden toegewezen aan een sensor"
 #: data/mp/messages/resmessagesall.rmsg:359
 #: data/mp/messages/strings/resstrings.txt:936
 msgid "Best Targets: Base structures, infantry, wheeled vehicles"
-msgstr ""
+msgstr "Beste doelen: Gebouwen, infanterie, voertuigen"
 
 #: data/base/messages/resmessages12.rmsg:150
 #: data/base/messages/resmessages12.rmsg:189
@@ -995,18 +995,18 @@ msgstr "Carrosseriepunten: zeer laag"
 #: data/mp/messages/resmessages3.rmsg:1187
 #: data/mp/messages/strings/resstrings.txt:950
 msgid "Mortar Upgrade"
-msgstr ""
+msgstr "Mortier verbetering"
 
 #: data/base/messages/resmessages12.rmsg:161
 #: data/mp/messages/resmessages12.rmsg:161
 msgid "Targeting systems compensate for distance and weather conditions"
-msgstr ""
+msgstr "Richt systemen compenseren voor afstand en weer conditie's"
 
 #: data/base/messages/resmessages12.rmsg:162
 #: data/base/messages/resmessages23.rmsg:188
 #: data/base/messages/resmessages3.rmsg:1176
 msgid "Increases Mortar accuracy"
-msgstr ""
+msgstr "Verbeterde mortier precizie"
 
 #: data/base/messages/resmessages12.rmsg:163
 #: data/base/messages/resmessages12.rmsg:176
@@ -1030,12 +1030,12 @@ msgstr "Alle mortieren automatisch verbeterd"
 #: data/base/messages/resmessages12.rmsg:174
 #: data/mp/messages/resmessages12.rmsg:174
 msgid "Automatic loader replaces manual feed"
-msgstr ""
+msgstr "Automatische lader vervangt handmatige lader"
 
 #: data/base/messages/resmessages12.rmsg:175
 #: data/base/messages/resmessages3.rmsg:1189
 msgid "Increases Mortar ROF"
-msgstr ""
+msgstr "Verbeterde vuurfrequentie van mortier"
 
 #: data/base/messages/resmessages12.rmsg:186
 #: data/base/messages/resmessages12.rmsg:251
@@ -1060,7 +1060,7 @@ msgstr "Raketartillerie; kan worden toegewezen aan een sensor"
 #: data/base/messages/resmessages12.rmsg:188
 #: data/mp/messages/resmessages12.rmsg:188
 msgid "Best Targets: Vehicles and Emplacements"
-msgstr ""
+msgstr "Beste doelen: Voertuigen en stellingen"
 
 #: data/base/messages/resmessages12.rmsg:199
 #: data/base/messages/resmessages12.rmsg:238
@@ -1081,16 +1081,16 @@ msgstr ""
 #: data/mp/messages/resmessagesall.rmsg:173
 #: data/mp/messages/strings/resstrings.txt:1010
 msgid "Rocket Upgrade"
-msgstr ""
+msgstr "Raket verbetering"
 
 #: data/base/messages/resmessages12.rmsg:200
 #: data/mp/messages/resmessages12.rmsg:200
 msgid "Autoloader increases reload rate"
-msgstr ""
+msgstr "Autolader vervangt herladingssnelheid"
 
 #: data/base/messages/resmessages12.rmsg:201
 msgid "Increases Rocket ROF"
-msgstr ""
+msgstr "Verbeterd vuurfrequentie van raket"
 
 #: data/base/messages/resmessages12.rmsg:202
 #: data/base/messages/resmessages12.rmsg:241
@@ -1116,7 +1116,7 @@ msgstr "Alle raketten automatisch verbeterd"
 #: data/base/messages/resmessages12.rmsg:214
 #: data/base/messages/resmessages3.rmsg:890
 msgid "Increases Cannon ROF"
-msgstr ""
+msgstr "Verbeterd vuurfrequentie van kanon"
 
 #: data/base/messages/resmessages12.rmsg:226
 #: data/mp/messages/resmessages12.rmsg:226
@@ -1127,23 +1127,23 @@ msgstr ""
 #: data/base/messages/resmessages1.rmsg:578
 #: data/base/messages/resmessages3.rmsg:877
 msgid "Increases Cannon damage"
-msgstr ""
+msgstr "Verbeterd kanon schade"
 
 #: data/base/messages/resmessages12.rmsg:239
 #: data/mp/messages/resmessages12.rmsg:239
 msgid "Rocket tracks the laser designator to the target"
-msgstr ""
+msgstr "Raket volgt de laser-bepaler naar het doelwit"
 
 #: data/base/messages/resmessages12.rmsg:240
 #: data/base/messages/resmessages1.rmsg:747
 #: data/base/messages/resmessagesall.rmsg:136
 msgid "Increases Rocket accuracy"
-msgstr ""
+msgstr "Verbeterd raket precizie"
 
 #: data/base/messages/resmessages12.rmsg:252
 #: data/mp/messages/resmessages12.rmsg:252
 msgid "Heavy anti-tank rocket"
-msgstr "Zwaare anti-tank raket"
+msgstr "Zware anti-tank raket"
 
 #: data/base/messages/resmessages12.rmsg:253
 #: data/base/messages/resmessages1.rmsg:539
@@ -1228,12 +1228,12 @@ msgstr "Computer Technologische doorbraak"
 #: data/base/messages/resmessages1.rmsg:18
 #: data/mp/messages/resmessages1.rmsg:18
 msgid "Synaptic Link allows humans to interface directly with computers"
-msgstr ""
+msgstr "Synaptische link stelt mensen in staat direct met computers te verbinden"
 
 #: data/base/messages/resmessages1.rmsg:19
 #: data/mp/messages/resmessages1.rmsg:19
 msgid "Cyborgs can now be researched"
-msgstr ""
+msgstr "Cyborgs kunnen nu worden onderzocht"
 
 #: data/base/messages/resmessages1.rmsg:20
 #: data/mp/messages/resmessages1.rmsg:20
@@ -1251,14 +1251,14 @@ msgstr "Nieuwe onderzoeksopties beschikbaar"
 #: data/mp/messages/resmessages3.rmsg:82
 #: data/mp/messages/strings/resstrings.txt:35
 msgid "Cyborg Materials Improved"
-msgstr ""
+msgstr "Cyborg materialen verbeterd"
 
 #: data/base/messages/resmessages1.rmsg:31
 #: data/base/messages/resmessages1.rmsg:473
 #: data/mp/messages/resmessages1.rmsg:31
 #: data/mp/messages/resmessages1.rmsg:474
 msgid "Layered composite alloys and energy-absorbing fibres"
-msgstr ""
+msgstr "Gelaagde composiet legeringen en energie-absorberende vezels"
 
 #: data/base/messages/resmessages1.rmsg:32
 #: data/base/messages/resmessages2.rmsg:19
@@ -1333,7 +1333,7 @@ msgstr "Nieuwe cyborg beschikbaar"
 #: data/base/messages/resmessages1.rmsg:44
 #: data/mp/messages/resmessages1.rmsg:44
 msgid "Armed with Cyborg Machinegun"
-msgstr ""
+msgstr "Bewapend met Cyborg machinegeweer"
 
 #: data/base/messages/resmessages1.rmsg:46
 #: data/base/messages/resmessages1.rmsg:59
@@ -1383,22 +1383,22 @@ msgstr ""
 #: data/mp/messages/strings/resstrings.txt:100
 #: data/mp/messages/strings/resstrings.txt:106
 msgid "Requires Cyborg factory to produce"
-msgstr ""
+msgstr "Vereist Cyborg fabriek om te produceren"
 
 #: data/base/messages/resmessages1.rmsg:57
 #: data/mp/messages/resmessages1.rmsg:57
 msgid "Armed with Cyborg Cannon"
-msgstr ""
+msgstr "Bewapend met Cyborg kanon"
 
 #: data/base/messages/resmessages1.rmsg:70
 #: data/mp/messages/resmessages1.rmsg:70
 msgid "Armed with Cyborg Flamer"
-msgstr ""
+msgstr "Bewapend met Cyborg Vlammenwerper"
 
 #: data/base/messages/resmessages1.rmsg:83
 #: data/mp/messages/resmessages1.rmsg:83
 msgid "Armed with Lance Anti-Tank rocket"
-msgstr ""
+msgstr "Bewapend met Lancier Anti-tank raket"
 
 #: data/base/messages/resmessages1.rmsg:95
 #: data/base/messages/resmessages2.rmsg:56
@@ -1416,7 +1416,7 @@ msgstr "Verdedigingen verbeterd"
 #: data/base/messages/resmessages1.rmsg:96
 #: data/mp/messages/resmessages1.rmsg:96
 msgid "Improved Titanium-reinforced concrete"
-msgstr ""
+msgstr "Verbeterde Titanium-gewapend beton"
 
 #: data/base/messages/resmessages1.rmsg:97
 msgid "Increases Armour and Body Points"
@@ -1438,64 +1438,64 @@ msgstr "Alle verdedigingswerken en muren automatisch verbeterd"
 #: data/base/messages/resmessages1.rmsg:109
 #: data/mp/messages/resmessages1.rmsg:109
 msgid "Steel tower with machinegun"
-msgstr ""
+msgstr "Stalen toren met machinegeweer"
 
 #: data/base/messages/resmessages1.rmsg:111
 #: data/mp/messages/resmessages1.rmsg:111
 msgid "Defensive Strength: Low"
-msgstr ""
+msgstr "Defensieve kracht: Laag"
 
 #: data/base/messages/resmessages1.rmsg:122
 msgid "Armored guard tower with Mini-Pod Rocket"
-msgstr ""
+msgstr "Gepantserde bewakingstoren met Mini-pod raket"
 
 #: data/base/messages/resmessages1.rmsg:135
 #: data/mp/messages/resmessages1.rmsg:135
 msgid "Armored bunker with Machinegun"
-msgstr ""
+msgstr "Gepantserde bunker met machinegeweer"
 
 #: data/base/messages/resmessages1.rmsg:148
 msgid "Armored bunker with Lancer AT rocket"
-msgstr ""
+msgstr "Gepanserde bunker met Lancier Anti-tank raket"
 
 #: data/base/messages/resmessages1.rmsg:161
 #: data/mp/messages/resmessages1.rmsg:161
 msgid "Armored bunker with Flamer"
-msgstr ""
+msgstr "Gepanserde bunker met Vlammenwerper"
 
 #: data/base/messages/resmessages1.rmsg:174
 #: data/mp/messages/resmessages1.rmsg:174
 msgid "Armored bunker with Light Cannon"
-msgstr ""
+msgstr "Gepanserde bunker met licht kanon"
 
 #: data/base/messages/resmessages1.rmsg:187
 #: data/mp/messages/resmessages1.rmsg:187
 msgid "Armored hardpoint with Light Cannon"
-msgstr ""
+msgstr "Gepanserd hardpoint met licht kanon"
 
 #: data/base/messages/resmessages1.rmsg:200
 #: data/mp/messages/resmessages1.rmsg:200
 msgid "Armored hardpoint with Medium Cannon"
-msgstr ""
+msgstr "Gepanserde hardpoint met medium kanon"
 
 #: data/base/messages/resmessages1.rmsg:213
 #: data/mp/messages/resmessages1.rmsg:213
 msgid "Armored hardpoint with Heavy Cannon"
-msgstr ""
+msgstr "Gepanserde hardpoint met zwaar kanon"
 
 #: data/base/messages/resmessages1.rmsg:226
 #: data/base/messages/strings/resstrings.txt:324
 #: data/mp/messages/resmessages1.rmsg:226
 #: data/mp/messages/strings/resstrings.txt:352
 msgid "Reinforced concrete tank traps"
-msgstr ""
+msgstr "Verbeterde betonnen tank-vallen"
 
 #: data/base/messages/resmessages1.rmsg:227
 #: data/base/messages/strings/resstrings.txt:325
 #: data/mp/messages/resmessages1.rmsg:227
 #: data/mp/messages/strings/resstrings.txt:353
 msgid "Prevents enemy movement"
-msgstr ""
+msgstr "Voorkomt vijhandelijke beweging"
 
 #: data/base/messages/resmessages1.rmsg:238
 #: data/base/messages/resmessages1.rmsg:264
@@ -1513,7 +1513,7 @@ msgstr "Nieuwe basisgebouwen beschikbaar"
 #: data/base/messages/resmessages1.rmsg:239
 #: data/mp/messages/resmessages1.rmsg:239
 msgid "New Repair Facility Repairs Damaged Units"
-msgstr ""
+msgstr "Nieuwe raparatie faciliteit repareert beschadigde units"
 
 #: data/base/messages/resmessages1.rmsg:240
 #: data/mp/messages/resmessages1.rmsg:240
@@ -1523,7 +1523,7 @@ msgstr "Gebruik het commandopaneel om eenheden ter reparatie terug te sturen"
 #: data/base/messages/resmessages1.rmsg:241
 #: data/mp/messages/resmessages1.rmsg:241
 msgid "Or select the Repair Facility as a unit's target"
-msgstr ""
+msgstr "Of selecteer het reparatie faciliteit als een units doel"
 
 #: data/base/messages/resmessages1.rmsg:251
 #: data/base/messages/resmessages2.rmsg:329
@@ -1534,12 +1534,12 @@ msgstr ""
 #: data/mp/messages/resmessages3.rmsg:420
 #: data/mp/messages/strings/resstrings.txt:361
 msgid "Repair Facility Improved"
-msgstr ""
+msgstr "Reparatie Faciliteit verbeterd"
 
 #: data/base/messages/resmessages1.rmsg:252
 #: data/mp/messages/resmessages1.rmsg:252
 msgid "New automated repair techniques"
-msgstr ""
+msgstr "Nieuwe automatische reparatie technieken"
 
 #: data/base/messages/resmessages1.rmsg:253
 #: data/base/messages/resmessages2.rmsg:331
@@ -1563,12 +1563,12 @@ msgstr "Alle reparatievoorzieningen automatisch verbeterd"
 #: data/base/messages/resmessages1.rmsg:265
 #: data/mp/messages/resmessages1.rmsg:265
 msgid "Enables command turret research"
-msgstr ""
+msgstr "Staat toe commando torens te onderzoeken"
 
 #: data/base/messages/resmessages1.rmsg:266
 #: data/mp/messages/resmessages1.rmsg:266
 msgid "Directs and collates information for command turrets"
-msgstr ""
+msgstr "Richt en vergelijkt informatie voor commando torens"
 
 #: data/base/messages/resmessages1.rmsg:267
 #: data/mp/messages/resmessages1.rmsg:267
@@ -1690,7 +1690,7 @@ msgstr "Geautomatiseerde fabrieksproductie"
 #: data/mp/messages/strings/resstrings.txt:396
 #: data/mp/messages/strings/resstrings.txt:404
 msgid "All vehicle factories upgraded automatically"
-msgstr "Alle voertuigfabriek automatisch verbeterd"
+msgstr "Alle voertuigfabrieken automatisch verbeterd"
 
 #: data/base/messages/resmessages1.rmsg:329
 #: data/mp/messages/resmessages1.rmsg:330
@@ -1785,7 +1785,7 @@ msgstr "Verhoogt schadebestendigheid"
 #: data/mp/messages/resmessages1.rmsg:370
 #: data/mp/messages/strings/names.txt:814
 msgid "Reinforced Base Structure Materials"
-msgstr ""
+msgstr "Versterkte Basis Gebouwen materialen"
 
 #: data/base/messages/resmessages1.rmsg:370
 #: data/base/messages/resmessages2.rmsg:58
@@ -1817,17 +1817,17 @@ msgstr "Alle basisgebouwen automatisch verbeterd"
 #: data/base/messages/resmessages1.rmsg:381
 #: data/mp/messages/resmessages1.rmsg:382
 msgid "Project Light Body"
-msgstr ""
+msgstr "Project's lichte carroserie"
 
 #: data/base/messages/resmessages1.rmsg:382
 #: data/mp/messages/resmessages1.rmsg:383
 msgid "Light body vulnerable to heavy weapons"
-msgstr ""
+msgstr "Lichte carroserie kwetsbaar voor zware wapens"
 
 #: data/base/messages/resmessages1.rmsg:383
 #: data/mp/messages/resmessages1.rmsg:384
 msgid "Good scout vehicle"
-msgstr ""
+msgstr "Goed verkenvoertuig"
 
 #: data/base/messages/resmessages1.rmsg:384
 #: data/mp/messages/resmessages1.rmsg:385
@@ -1837,7 +1837,7 @@ msgstr "Lage energiekosten en korte productietijd"
 #: data/base/messages/resmessages1.rmsg:394
 #: data/mp/messages/resmessages1.rmsg:395
 msgid "New Paradigm Light Body"
-msgstr ""
+msgstr "New Paradigm's lichte carroserie"
 
 #: data/base/messages/resmessages1.rmsg:395
 #: data/mp/messages/resmessages1.rmsg:396
@@ -1859,7 +1859,7 @@ msgstr "Energiekosten en productietijd gelijk aan Adder"
 #: data/base/messages/resmessages1.rmsg:407
 #: data/mp/messages/resmessages1.rmsg:408
 msgid "Project Medium Body"
-msgstr ""
+msgstr "Project's gemiddelde carroserie"
 
 #: data/base/messages/resmessages1.rmsg:408
 #: data/mp/messages/resmessages1.rmsg:409
@@ -1869,7 +1869,7 @@ msgstr "Gemiddelde carrosserie verhoogt pantser en carrosseriepunten"
 #: data/base/messages/resmessages1.rmsg:409
 #: data/mp/messages/resmessages1.rmsg:410
 msgid "Good medium tank and support vehicle"
-msgstr ""
+msgstr "Goede gemiddelde tank en ondersteuningsvoertuig"
 
 #: data/base/messages/resmessages1.rmsg:410
 #: data/mp/messages/resmessages1.rmsg:411
@@ -1879,7 +1879,7 @@ msgstr "Gemiddelde energiekosten en productietijd"
 #: data/base/messages/resmessages1.rmsg:420
 #: data/mp/messages/resmessages1.rmsg:421
 msgid "New Paradigm Medium body"
-msgstr ""
+msgstr "New Paradigm's gemiddelde carroserie"
 
 #: data/base/messages/resmessages1.rmsg:421
 #: data/mp/messages/resmessages1.rmsg:422
@@ -1901,7 +1901,7 @@ msgstr "Energiekosten en productietijd gelijk aan Cobra"
 #: data/base/messages/resmessages1.rmsg:433
 #: data/mp/messages/resmessages1.rmsg:434
 msgid "Project Heavy Body"
-msgstr ""
+msgstr "Project's zware carroserie"
 
 #: data/base/messages/resmessages1.rmsg:434
 #: data/mp/messages/resmessages1.rmsg:435
@@ -1911,17 +1911,17 @@ msgstr "Zware carrosserie verhoogt pantser en carrosseriepunten"
 #: data/base/messages/resmessages1.rmsg:435
 #: data/mp/messages/resmessages1.rmsg:436
 msgid "Good main battle tank and heavy artillery platform"
-msgstr ""
+msgstr "Goede hoofd gevechtstank en zware geschutsplatform"
 
 #: data/base/messages/resmessages1.rmsg:436
 #: data/mp/messages/resmessages1.rmsg:437
 msgid "Very high power costs and very slow to produce"
-msgstr "Erg hoge energiekosten en lange productietijd"
+msgstr "Hele hoge energiekosten en lange productietijd"
 
 #: data/base/messages/resmessages1.rmsg:446
 #: data/mp/messages/resmessages1.rmsg:447
 msgid "New Paradigm Heavy Body"
-msgstr ""
+msgstr "New Paradigm's zware carroserie"
 
 #: data/base/messages/resmessages1.rmsg:447
 #: data/mp/messages/resmessages1.rmsg:448
@@ -2035,7 +2035,7 @@ msgstr "Nieuwe aandrijving beschikbaar"
 #: data/base/messages/resmessages1.rmsg:486
 #: data/mp/messages/resmessages1.rmsg:487
 msgid "Armored Half-tracks"
-msgstr ""
+msgstr "Gepantserde half-banden"
 
 #: data/base/messages/resmessages1.rmsg:487
 #: data/mp/messages/resmessages1.rmsg:488
@@ -2045,7 +2045,7 @@ msgstr "Snelheid: gemiddeld"
 #: data/base/messages/resmessages1.rmsg:499
 #: data/mp/messages/resmessages1.rmsg:500
 msgid "Amphibious hover propulsion"
-msgstr ""
+msgstr "Amfibische luchtkussen voortstuwing"
 
 #: data/base/messages/resmessages1.rmsg:500
 #: data/base/messages/resmessages1.rmsg:526
@@ -2103,7 +2103,7 @@ msgstr "Carrosseriepunten: laag"
 #: data/base/messages/resmessages1.rmsg:512
 #: data/mp/messages/resmessages1.rmsg:513
 msgid "Armored Tracks"
-msgstr ""
+msgstr "Bepantserde tracks"
 
 #: data/base/messages/resmessages1.rmsg:513
 #: data/mp/messages/resmessages1.rmsg:514
@@ -2120,27 +2120,27 @@ msgstr "Wielaandrijving"
 #: data/base/messages/resmessages1.rmsg:538
 #: data/mp/messages/resmessages1.rmsg:539
 msgid "Light Cannon firing 40mm rounds"
-msgstr ""
+msgstr "Licht kanon vuurt 40mm kogels"
 
 #: data/base/messages/resmessages1.rmsg:551
 #: data/mp/messages/resmessages1.rmsg:552
 msgid "Medium Cannon firing 76mm rounds"
-msgstr ""
+msgstr "Gemiddeld kanon vuurt 76mm kogels"
 
 #: data/base/messages/resmessages1.rmsg:564
 #: data/mp/messages/resmessages1.rmsg:565
-msgid "Heavy Cannon firing 120 mm rounds"
-msgstr ""
+msgid "Heavy Cannon firing 120mm rounds"
+msgstr "Zwaar kanon vuurt 120mm kogels"
 
 #: data/base/messages/resmessages1.rmsg:577
 #: data/mp/messages/resmessages1.rmsg:578
 msgid "High Explosive Anti-Tank Cannon Shells"
-msgstr ""
+msgstr "Hoge explosieve Anti-tank kogelhulzen"
 
 #: data/base/messages/resmessages1.rmsg:590
 #: data/mp/messages/resmessages1.rmsg:591
 msgid "Flame-thrower firing Propylene Oxide gel"
-msgstr ""
+msgstr "Vlammenwerper vuurt propyleen oxide gel"
 
 #: data/base/messages/resmessages1.rmsg:591
 #: data/base/messages/resmessages2.rmsg:773
@@ -2150,7 +2150,7 @@ msgstr ""
 #: data/mp/messages/resmessagesall.rmsg:385
 #: data/mp/messages/strings/resstrings.txt:798
 msgid "Best Targets: Bunkers, wheeled and hover vehicles"
-msgstr ""
+msgstr "Beste doelen: Bunkers, wiel- en luchtaangedreven voertuigen"
 
 #: data/base/messages/resmessages1.rmsg:592
 #: data/mp/messages/resmessages1.rmsg:593
@@ -2161,7 +2161,7 @@ msgstr "Carrosseriepunten: zeer laag"
 #: data/base/messages/resmessages1.rmsg:603
 #: data/mp/messages/resmessages1.rmsg:604
 msgid "Propylene Oxide gel treated to burn at higher temperatures"
-msgstr ""
+msgstr "Propyleen oxide gel die op hogere temperaturen ontbrand"
 
 #: data/base/messages/resmessages1.rmsg:604
 #: data/base/messages/resmessages2.rmsg:786
@@ -2173,17 +2173,17 @@ msgstr "Verhoogt vlammenwerperschade"
 #: data/base/messages/resmessages1.rmsg:616
 #: data/mp/messages/resmessages1.rmsg:617
 msgid "7.62mm machinegun"
-msgstr ""
+msgstr "7.62mm machinegeweer"
 
 #: data/base/messages/resmessages1.rmsg:629
 #: data/mp/messages/resmessages1.rmsg:630
 msgid "Twin 7.62mm machineguns"
-msgstr ""
+msgstr "Dubbele 7.62mm machinegeweer"
 
 #: data/base/messages/resmessages1.rmsg:642
 #: data/mp/messages/resmessages1.rmsg:643
 msgid "Hardened case machinegun bullets"
-msgstr ""
+msgstr "Verhard huis machinegeweer kogels"
 
 #: data/base/messages/resmessages1.rmsg:643
 #: data/base/messages/resmessages1.rmsg:656
@@ -2193,7 +2193,7 @@ msgstr ""
 #: data/base/messages/strings/resstrings.txt:847
 #: data/mp/messages/strings/resstrings.txt:890
 msgid "Increases Machinegun damage"
-msgstr ""
+msgstr "Verbeterde machinegeweer schade"
 
 #: data/base/messages/resmessages1.rmsg:655
 #: data/mp/messages/resmessages1.rmsg:656
@@ -2209,24 +2209,24 @@ msgstr "Kan direct aangevallen worden of kan toegewezen worden aan een sensorkoe
 #: data/base/messages/resmessages1.rmsg:681
 #: data/mp/messages/resmessages1.rmsg:682
 msgid "Improved high explosive shells"
-msgstr ""
+msgstr "Verbeterde hoog explosieve hulzen"
 
 #: data/base/messages/resmessages1.rmsg:682
 #: data/base/messages/resmessages2.rmsg:916
 #: data/base/messages/strings/resstrings.txt:907
 #: data/mp/messages/strings/resstrings.txt:952
 msgid "Increases Mortar damage"
-msgstr ""
+msgstr "Verbeterde moertier schade"
 
 #: data/base/messages/resmessages1.rmsg:694
 #: data/mp/messages/resmessages1.rmsg:695
 msgid "Fast firing light anti-vehicle rockets"
-msgstr ""
+msgstr "Snelvurende licht anti-voertuig raketten"
 
 #: data/base/messages/resmessages1.rmsg:695
 #: data/mp/messages/resmessages1.rmsg:696
 msgid "Best Targets: Wheeled and hover vehicles"
-msgstr ""
+msgstr "Beste doele: Wiel- en luchtkussenaangedreven voertuigen"
 
 #: data/base/messages/resmessages1.rmsg:706
 #: data/base/messages/resmessages1.rmsg:719
@@ -2237,16 +2237,16 @@ msgstr ""
 #: data/mp/messages/strings/resstrings.txt:988
 #: data/mp/messages/strings/resstrings.txt:996
 msgid "Mini-Rocket Upgrade"
-msgstr ""
+msgstr "Mini-raket verbetering"
 
 #: data/base/messages/resmessages1.rmsg:707
 #: data/mp/messages/resmessages1.rmsg:708
 msgid "Fin-stabilization improves flight trajectory"
-msgstr ""
+msgstr "Vin-gestabilizeerde verbeterd vluchttraject"
 
 #: data/base/messages/resmessages1.rmsg:708
 msgid "Increases Mini-Rocket accuracy"
-msgstr ""
+msgstr "verbeterde mini-raket precizie"
 
 #: data/base/messages/resmessages1.rmsg:709
 #: data/base/messages/resmessages1.rmsg:722
@@ -2262,47 +2262,47 @@ msgstr "Alle mini-raketten automatisch verbeterd"
 #: data/base/messages/resmessages1.rmsg:720
 #: data/mp/messages/resmessages1.rmsg:721
 msgid "Improved shaped charge warhead"
-msgstr ""
+msgstr "Verbeterd aanloopfiguur voor oorlogskop"
 
 #: data/base/messages/resmessages1.rmsg:721
 #: data/base/messages/resmessages2.rmsg:929
 #: data/base/messages/strings/resstrings.txt:945
 #: data/mp/messages/strings/resstrings.txt:990
 msgid "Increases Mini-Rocket damage"
-msgstr ""
+msgstr "Verbeterde mini-raket schade"
 
 #: data/base/messages/resmessages1.rmsg:733
 #: data/mp/messages/resmessages1.rmsg:734
 msgid "Automated reload system"
-msgstr ""
+msgstr "Geautomatiseerd herlaad systeem"
 
 #: data/base/messages/resmessages1.rmsg:734
 msgid "Increases Mini-Rockets ROF"
-msgstr ""
+msgstr "Verbeterde vuurfrequentie voor Mini-raket"
 
 #: data/base/messages/resmessages1.rmsg:746
 #: data/mp/messages/resmessages1.rmsg:747
 msgid "Tracks and directs in-flight rocket to target"
-msgstr ""
+msgstr "Volgt en richt afgeschoten raketten naar doelwit"
 
 #: data/base/messages/resmessages1.rmsg:759
 #: data/mp/messages/resmessages1.rmsg:760
 msgid "High Explosive Anti-Tank warhead"
-msgstr ""
+msgstr "Hoog explosieve Anti-tank oorlogskop"
 
 #: data/base/messages/resmessages1.rmsg:760
 #: data/base/messages/resmessages2.rmsg:942
 #: data/base/messages/strings/resstrings.txt:967
 #: data/mp/messages/strings/resstrings.txt:1012
 msgid "Increases Rocket damage"
-msgstr ""
+msgstr "Verbeterde raket schade"
 
 #: data/base/messages/resmessages23.rmsg:4
 #: data/base/messages/resmessages3.rmsg:56
 #: data/mp/messages/resmessages23.rmsg:4
 #: data/mp/messages/resmessages3.rmsg:56
 msgid "Cyborg Propulsion Improved"
-msgstr ""
+msgstr "Cyborg voortstuwing verbeterd"
 
 #: data/base/messages/resmessages23.rmsg:5
 #: data/base/messages/resmessages2.rmsg:538
@@ -2333,7 +2333,7 @@ msgstr ""
 #: data/mp/messages/strings/resstrings.txt:647
 #: data/mp/messages/strings/resstrings.txt:657
 msgid "New armored construction"
-msgstr ""
+msgstr "Nieuw bepantserd gebouw"
 
 #: data/base/messages/resmessages23.rmsg:6
 #: data/base/messages/resmessages2.rmsg:539
@@ -2369,7 +2369,7 @@ msgstr "Verhoogt carrosseriepunten"
 #: data/base/messages/resmessages23.rmsg:18
 #: data/mp/messages/resmessages23.rmsg:18
 msgid "Armored hardpoint with Hyper-Velocity Cannon"
-msgstr ""
+msgstr "Bepantserde hardpoint met Hyper-snelheids kanon"
 
 #: data/base/messages/resmessages23.rmsg:31
 #: data/base/messages/resmessages3.rmsg:434
@@ -2395,7 +2395,7 @@ msgstr "Alle energiegeneratoren automatisch verbeterd"
 #: data/mp/messages/resmessages23.rmsg:83
 #: data/mp/messages/resmessages3.rmsg:525
 msgid "Improved fire detection systems"
-msgstr ""
+msgstr "Verbeterde vuur-detectie systeem"
 
 #: data/base/messages/resmessages23.rmsg:69
 #: data/base/messages/resmessages23.rmsg:95
@@ -2412,7 +2412,7 @@ msgstr "Nieuwe systeemtoren beschikbaar"
 #: data/base/messages/resmessages23.rmsg:70
 #: data/mp/messages/resmessages23.rmsg:70
 msgid "VTOL CB Tower detects enemy indirect fire batteries"
-msgstr ""
+msgstr "VTOL CB toren detecteert vijhandelijke afvuur batterijen"
 
 #: data/base/messages/resmessages23.rmsg:71
 #: data/base/messages/resmessages2.rmsg:435
@@ -2421,7 +2421,7 @@ msgstr ""
 #: data/mp/messages/resmessages2.rmsg:435
 #: data/mp/messages/strings/resstrings.txt:511
 msgid "Orders assigned VTOLs to attack the enemy batteries"
-msgstr ""
+msgstr "Geeft orders aan aangewezen VTOL's om de vijhandelijke batterijen aan"
 
 #: data/base/messages/resmessages23.rmsg:72
 #: data/base/messages/resmessages2.rmsg:436
@@ -2430,7 +2430,7 @@ msgstr ""
 #: data/mp/messages/resmessages2.rmsg:436
 #: data/mp/messages/strings/resstrings.txt:512
 msgid "VTOLs attack until enemy battery is suppressed"
-msgstr ""
+msgstr "VTOL's blijven aanvallen tot de vijhandelijke batterij onderdrukt is"
 
 #: data/base/messages/resmessages23.rmsg:82
 #: data/base/messages/resmessages2.rmsg:446
@@ -2441,7 +2441,7 @@ msgstr ""
 #: data/mp/messages/resmessages3.rmsg:537
 #: data/mp/messages/strings/resstrings.txt:515
 msgid "VTOL CB Improved"
-msgstr ""
+msgstr "VTOL CB verbeterd"
 
 #: data/base/messages/resmessages23.rmsg:84
 #: data/base/messages/resmessages2.rmsg:448
@@ -2452,7 +2452,7 @@ msgstr ""
 #: data/mp/messages/resmessages3.rmsg:539
 #: data/mp/messages/strings/resstrings.txt:517
 msgid "Extends VTOL CB Range"
-msgstr ""
+msgstr "Verlengt VTOL CB bereik"
 
 #: data/base/messages/resmessages23.rmsg:85
 #: data/base/messages/resmessages2.rmsg:449
@@ -2468,17 +2468,17 @@ msgstr "Alle VTOL CB-sensoren automatisch verbeterd"
 #: data/base/messages/resmessages23.rmsg:96
 #: data/mp/messages/resmessages23.rmsg:96
 msgid "VTOL Strike Tower detects approaching enemies"
-msgstr ""
+msgstr "VTOL Strike toren detecteert naderende vijhanden"
 
 #: data/base/messages/resmessages23.rmsg:97
 #: data/mp/messages/resmessages23.rmsg:97
 msgid "Assigned VTOLs attack the enemy units"
-msgstr ""
+msgstr "Toegewezen VTOL's vallen de vijhandelijke units aan"
 
 #: data/base/messages/resmessages23.rmsg:98
 #: data/mp/messages/resmessages23.rmsg:98
 msgid "Strike mission continues until enemy destroyed or they retreat"
-msgstr ""
+msgstr "Aanvals missie gaat door tot de vijhand is vernietigd of terugtrekt."
 
 #: data/base/messages/resmessages23.rmsg:108
 #: data/base/messages/resmessages2.rmsg:433
@@ -2500,17 +2500,17 @@ msgstr "Nieuwe systeemkoepel beschikbaar"
 #: data/base/messages/resmessages23.rmsg:109
 #: data/mp/messages/resmessages23.rmsg:109
 msgid "VTOL Strike turret used to spot targets"
-msgstr ""
+msgstr "VTOL Strike toren wordt gebruikt om doelwitten te vinden"
 
 #: data/base/messages/resmessages23.rmsg:110
 #: data/mp/messages/resmessages23.rmsg:110
 msgid "Assigned VTOLs attack the designated targets"
-msgstr ""
+msgstr "Toegewezen VTOL's vallen de aangewezen doelen aan"
 
 #: data/base/messages/resmessages23.rmsg:111
 #: data/mp/messages/resmessages23.rmsg:111
 msgid "Select new targets to continue the VTOL strikes"
-msgstr ""
+msgstr "Selecteer nieuwe doelwitten om de VTOL aanvallen te laten doorgaan"
 
 #: data/base/messages/resmessages23.rmsg:121
 #: data/base/messages/resmessages2.rmsg:459
@@ -2521,12 +2521,12 @@ msgstr ""
 #: data/mp/messages/resmessages3.rmsg:550
 #: data/mp/messages/strings/resstrings.txt:529
 msgid "VTOL Strike Improved"
-msgstr ""
+msgstr "VTOL strike verbeterd"
 
 #: data/base/messages/resmessages23.rmsg:122
 #: data/mp/messages/resmessages23.rmsg:122
 msgid "Improved target recognition systems"
-msgstr ""
+msgstr "Verbeterde doel oordeel systemen"
 
 #: data/base/messages/resmessages23.rmsg:123
 #: data/base/messages/resmessages2.rmsg:461
@@ -2537,7 +2537,7 @@ msgstr ""
 #: data/mp/messages/resmessages3.rmsg:552
 #: data/mp/messages/strings/resstrings.txt:531
 msgid "Extends VTOL Strike Range"
-msgstr ""
+msgstr "Verbeterd VTOL-aanval bereik"
 
 #: data/base/messages/resmessages23.rmsg:124
 #: data/base/messages/resmessages2.rmsg:462
@@ -2565,7 +2565,7 @@ msgstr "Alle VTOL-aanval-sensoren automatisch verbeterd"
 #: data/mp/messages/strings/resstrings.txt:694
 #: data/mp/messages/strings/resstrings.txt:712
 msgid "AA Upgrade"
-msgstr ""
+msgstr "AA verbetering"
 
 #: data/base/messages/resmessages23.rmsg:135
 #: data/base/messages/resmessages2.rmsg:837
@@ -2574,7 +2574,7 @@ msgstr ""
 #: data/mp/messages/resmessages2.rmsg:837
 #: data/mp/messages/strings/resstrings.txt:835
 msgid "Self-guided rocket powered shells"
-msgstr ""
+msgstr "Zelf-geleidende raket kracht hulzen"
 
 #: data/base/messages/resmessages23.rmsg:136
 #: data/base/messages/resmessages2.rmsg:643
@@ -2582,7 +2582,7 @@ msgstr ""
 #: data/base/messages/strings/resstrings.txt:661
 #: data/mp/messages/strings/resstrings.txt:696
 msgid "Increases AA accuracy"
-msgstr ""
+msgstr "Verbeterde AA precizie"
 
 #: data/base/messages/resmessages23.rmsg:137
 #: data/base/messages/resmessages2.rmsg:644
@@ -2615,17 +2615,17 @@ msgstr "Alle AA-wapens automatisch verbeterd"
 #: data/mp/messages/strings/resstrings.txt:732
 #: data/mp/messages/strings/resstrings.txt:738
 msgid "New Bomb Bay Available"
-msgstr ""
+msgstr "Nieuw Bommenluik beschikbaar"
 
 #: data/base/messages/resmessages23.rmsg:148
 #: data/mp/messages/resmessages23.rmsg:148
 msgid "Drops incendiary bombs"
-msgstr ""
+msgstr "Laat ontbrandende bommen vallen"
 
 #: data/base/messages/resmessages23.rmsg:149
 #: data/mp/messages/resmessages23.rmsg:149
 msgid "Best Targets: Bunkers and Hardpoints"
-msgstr ""
+msgstr "Beste doelen: Bunkers en Hardpoints"
 
 #: data/base/messages/resmessages23.rmsg:160
 #: data/base/messages/resmessages2.rmsg:732
@@ -2633,11 +2633,11 @@ msgstr ""
 #: data/base/messages/strings/resstrings.txt:713
 #: data/mp/messages/strings/resstrings.txt:748
 msgid "Bombsight Upgrade"
-msgstr ""
+msgstr "Bombardeer verbetering"
 
 #: data/base/messages/resmessages23.rmsg:161
 msgid "Laser designator paints and guides bombs to the target"
-msgstr ""
+msgstr "Laser onderscheider markeert en geleid bommen naar het doel"
 
 #: data/base/messages/resmessages23.rmsg:162
 #: data/base/messages/resmessages2.rmsg:734
@@ -2645,7 +2645,7 @@ msgstr ""
 #: data/base/messages/strings/resstrings.txt:715
 #: data/mp/messages/strings/resstrings.txt:750
 msgid "Increases Bombing accuracy"
-msgstr ""
+msgstr "Verbetert Bombardeer precizie"
 
 #: data/base/messages/resmessages23.rmsg:163
 #: data/base/messages/resmessages2.rmsg:735
@@ -2656,22 +2656,22 @@ msgstr ""
 #: data/mp/messages/resmessages3.rmsg:865
 #: data/mp/messages/strings/resstrings.txt:751
 msgid "All bomb bays upgraded automatically"
-msgstr ""
+msgstr "Alle bommenluiken zijn automatische verbeterd"
 
 #: data/base/messages/resmessages23.rmsg:174
 #: data/mp/messages/resmessages23.rmsg:174
 msgid "Robotic advances make new chaingun upgrade available"
-msgstr ""
+msgstr "Robotische verbeteringen zorgen voor nieuwe kettinggeweer verbetering"
 
 #: data/base/messages/resmessages23.rmsg:187
 #: data/mp/messages/resmessages23.rmsg:187
 msgid "Shells detect and home to thermal heat signatures"
-msgstr ""
+msgstr "Hulzen detecteren en "
 
 #: data/base/messages/resmessages23.rmsg:200
 #: data/mp/messages/resmessages23.rmsg:200
 msgid "105mm multi-barrel Howitzer may be assigned to a sensor"
-msgstr ""
+msgstr "105mm multi-tonnen Howitzer kan worden toegewezen aan een sensor"
 
 #: data/base/messages/resmessages23.rmsg:201
 #: data/base/messages/resmessages2.rmsg:799
@@ -2685,12 +2685,12 @@ msgstr ""
 #: data/mp/messages/strings/resstrings.txt:814
 #: data/mp/messages/strings/resstrings.txt:822
 msgid "Best Targets: Base Structures, infantry, wheeled vehicles"
-msgstr ""
+msgstr "Beste doelen: Basis Gebouwen, infanterie, voertuigen"
 
 #: data/base/messages/resmessages23.rmsg:213
 #: data/mp/messages/resmessages23.rmsg:213
 msgid "Multi-barrel, rapid-fire machinegun"
-msgstr ""
+msgstr "Multi-tonnen, snelvuur machinegeweer"
 
 #: data/base/messages/resmessages23.rmsg:215
 #: data/mp/messages/resmessages23.rmsg:215
@@ -2715,7 +2715,7 @@ msgstr "Cyborg-hitteschild verbeterd"
 #: data/mp/messages/resmessages3.rmsg:5
 #: data/mp/messages/strings/resstrings.txt:46
 msgid "Heat resistant armored layers"
-msgstr ""
+msgstr "Hitte bestendige gepantserde lagen"
 
 #: data/base/messages/resmessages2.rmsg:6
 #: data/base/messages/resmessages3.rmsg:6
@@ -2733,7 +2733,7 @@ msgstr "Hitteschild verbeterd"
 #: data/mp/messages/strings/resstrings.txt:36
 #: data/mp/messages/strings/resstrings.txt:607
 msgid "Layered dense composite alloys and energy-absorbing fibres"
-msgstr ""
+msgstr "Gelaagde dichte composiet legeringen en energie-absorberende vezels"
 
 #: data/base/messages/resmessages2.rmsg:31
 #: data/base/messages/strings/resstrings.txt:50
@@ -2742,28 +2742,28 @@ msgstr ""
 #: data/mp/messages/strings/resstrings.txt:54
 #: data/mp/messages/strings/resstrings.txt:104
 msgid "Armed with Bunker Buster rocket"
-msgstr ""
+msgstr "Gepansterd met Bunker Buster raketten"
 
 #: data/base/messages/resmessages2.rmsg:44
 #: data/base/messages/strings/resstrings.txt:66
 #: data/mp/messages/resmessages2.rmsg:44
 #: data/mp/messages/strings/resstrings.txt:86
 msgid "Armed with Cyborg Assault Gun"
-msgstr ""
+msgstr "Bewapend met Cyborg Aanvalsgeweer"
 
 #: data/base/messages/resmessages2.rmsg:57
 #: data/base/messages/strings/resstrings.txt:104
 #: data/mp/messages/resmessages2.rmsg:57
 #: data/mp/messages/strings/resstrings.txt:124
 msgid "High-tensile concrete reinforced with boron"
-msgstr ""
+msgstr "Hoog-rekbaar beton gewapend met Boron"
 
 #: data/base/messages/resmessages2.rmsg:70
 #: data/base/messages/strings/resstrings.txt:120
 #: data/mp/messages/resmessages2.rmsg:70
 #: data/mp/messages/strings/resstrings.txt:140
 msgid "AA Site with Cyclone Flak Turret"
-msgstr ""
+msgstr "AA platform met Cycloon luchtgeschuts toren"
 
 #: data/base/messages/resmessages2.rmsg:71
 #: data/base/messages/resmessages2.rmsg:97
@@ -2782,49 +2782,49 @@ msgstr ""
 #: data/mp/messages/strings/resstrings.txt:141
 #: data/mp/messages/strings/resstrings.txt:153
 msgid "Automatically targets VTOLs"
-msgstr ""
+msgstr "Richt automatisch op VTOL's"
 
 #: data/base/messages/resmessages2.rmsg:83
 #: data/base/messages/strings/resstrings.txt:126
 #: data/mp/messages/resmessages2.rmsg:83
 #: data/mp/messages/strings/resstrings.txt:146
 msgid "AA Site with Hurricane Gun Turret"
-msgstr ""
+msgstr "AA platform met orkaan toren"
 
 #: data/base/messages/resmessages2.rmsg:84
 #: data/base/messages/strings/resstrings.txt:127
 #: data/mp/messages/resmessages2.rmsg:84
 #: data/mp/messages/strings/resstrings.txt:147
 msgid "Automatically targets VTOL"
-msgstr ""
+msgstr "Richt automatisch op VTOL's"
 
 #: data/base/messages/resmessages2.rmsg:96
 #: data/base/messages/strings/resstrings.txt:132
 #: data/mp/messages/resmessages2.rmsg:96
 #: data/mp/messages/strings/resstrings.txt:152
 msgid "AA Site with Whirlwind Gun Turret"
-msgstr ""
+msgstr "AA platform met Wervelwind toren"
 
 #: data/base/messages/resmessages2.rmsg:109
 #: data/base/messages/strings/resstrings.txt:114
 #: data/mp/messages/resmessages2.rmsg:109
 #: data/mp/messages/strings/resstrings.txt:134
 msgid "AA Site with Tornado Flak Turret"
-msgstr ""
+msgstr "AA platform met Tornado luchtgeschut"
 
 #: data/base/messages/resmessages2.rmsg:122
 #: data/base/messages/strings/resstrings.txt:142
 #: data/mp/messages/resmessages2.rmsg:122
 #: data/mp/messages/strings/resstrings.txt:162
 msgid "Indirect fire rocket battery"
-msgstr ""
+msgstr "Indirect vuur raket batterij"
 
 #: data/base/messages/resmessages2.rmsg:135
 #: data/base/messages/strings/resstrings.txt:154
 #: data/mp/messages/resmessages2.rmsg:135
 #: data/mp/messages/strings/resstrings.txt:176
 msgid "Armored Bombard battery pit"
-msgstr ""
+msgstr "Gepantserde Pothond batterij pit"
 
 #: data/base/messages/resmessages2.rmsg:148
 #: data/base/messages/strings/resstrings.txt:168
